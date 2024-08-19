@@ -1,0 +1,11 @@
+{
+    "title": "TATA-PLAY | HMAC-API",
+    "owner": "@babel_india",
+    "developers": "Arturo, Beliver, Ghost",
+    "channel": "https://t.me/babel_india",
+    "userAgent": "Mozilla/5.0",
+    "data": {
+        "hmac": "Failed to fetch data: 401",
+        "hdntl": "400 Bad Request"
+    }
+}
